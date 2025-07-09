@@ -1,6 +1,8 @@
 # Welcome to the IVDTrack Online Help Guide
 
 This is the landing page for the sample help system.
+
+
 **IVDTrack** is a secure web application designed for diagnostic laboratories to record, review, and submit patient test results using in-vitro diagnostic devices in compliance with EU IVDR guidelines.
 
 
