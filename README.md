@@ -1,6 +1,6 @@
 # Welcome to my Technical Writing and QM Portfolio! 👋  
 
-I'm a ⚡ **Technical Writer & Quality Specialist** ⚡ with a strong foundation in regulated industries and a passion for creating structured, user-centric documentation that simplifies complexity.
+I'm a ⚡ **Technical Writer & Quality Management (QM) Specialist** ⚡ with a strong foundation in regulated industries and a passion for creating structured, user-centric documentation that simplifies complexity.
 
 ---
 
