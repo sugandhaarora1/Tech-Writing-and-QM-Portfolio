@@ -56,3 +56,6 @@ Explore GxP-compliant SOP examples aligned with ISO 13485, IVDR, and 21 CFR stan
 
 Feel free to explore the folders and connect with me if you're looking to collaborate on documentation or compliance projects! 😊  
 
+![Made with Markdown](https://img.shields.io/badge/made%20with-Markdown-blue)
+
+
