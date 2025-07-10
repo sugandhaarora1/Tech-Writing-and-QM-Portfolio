@@ -1,0 +1,9 @@
+Tech-Writing-and-QM-Portfolio/
+└── AI-Model-Checklist/
+    ├── 01_Data_Collection_Checklist.md
+    ├── 02_Preprocessing_Checklist.md
+    ├── 03_Model_Training_Checklist.md
+    ├── 04_Documentation_Checklist.md
+    ├── 05_Risk_Mitigation_Checklist.md
+    ├── AI_Model_Lifecycle_Checklist.xlsx
+    └── README.md
