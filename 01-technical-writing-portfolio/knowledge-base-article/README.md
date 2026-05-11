@@ -1,4 +1,4 @@
-# Knowledge Base Article Sample
+# Knowledge Base Article
 
 ## Title
 How to Troubleshoot Missing Approval Notifications
