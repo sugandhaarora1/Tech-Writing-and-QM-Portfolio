@@ -1,61 +1,61 @@
-# Welcome to my Technical Writing and QM Portfolio! 👋  
+# Documentation Review Guideline – Sample
 
-I'm a ⚡ **Technical Writer & Quality Management (QM) Specialist** ⚡ with a strong foundation in regulated industries and a passion for creating structured, user-centric documentation that simplifies complexity.
+## Purpose
+This guideline defines a repeatable review process for technical and process documentation.
 
----
+## Why This Matters
+Documentation reviews often fail when reviewers focus on different things. This guideline helps ensure that each reviewer checks the right aspect of the document at the right stage.
 
-## 🧩 Portfolio Structure  
+## Review Stages
 
-This repository showcases a range of documentation types I've worked on, categorized into the following folders:
+| Stage | Reviewer | Focus |
+|---|---|---|
+| Draft Review | Author + SME | Technical accuracy and completeness |
+| Quality Review | Quality / Documentation Specialist | Compliance, structure, traceability |
+| Stakeholder Review | Product / Process Owner | Business fit and usability |
+| Final Approval | Document Owner | Release readiness |
 
-### 📘 `Sample Online Help Guide`  
-A software-style help guide created to demonstrate UI/UX-based user documentation, including onboarding, feature explanations, and troubleshooting topics.
+## Review Checklist
 
-### 📄 `SOP Templates – Quality System Documentation (GxP-compliant)`  
-Standard Operating Procedures written to reflect industry best practices for regulated environments (pharma, diagnostics, medical devices), with a focus on compliance, clarity, and audit-readiness.
+### Content Accuracy
+- Is the information technically correct?
+- Are all steps complete?
+- Are assumptions clearly stated?
+- Are references current?
 
-### 📊 `Model Lifecycle Checklist – AI/ML Model Quality Control`  
-Templates and checklists used to track and manage quality checkpoints across the lifecycle of an AI/ML model, aligning with regulatory and internal governance frameworks.
+### Structure
+- Does the document follow the approved template?
+- Are headings clear and consistent?
+- Is the sequence logical?
+- Are screenshots and visuals placed near relevant steps?
 
-### 🧬 `Device Documentation – Companion Diagnostic (Fictional)`  
-Sample documentation for a fictional diagnostic device, including user manuals and technical overviews – tailored to reflect the structure and tone of real-world med-tech products.
+### Compliance
+- Is the correct document type used?
+- Are version history and approval fields complete?
+- Are mandatory references included?
+- Is the document aligned with SOP or QMS requirements?
 
-### 🔀 `Workflow Demo – Git-based Documentation Flow`  
-A demonstration of how documentation can be managed using Git, including versioning, branches, pull requests, and collaborative review cycles.
+### Usability
+- Can the target user complete the task using this document?
+- Are terms explained clearly?
+- Are warnings or notes visible?
+- Is the language simple and direct?
 
----
+## Suggested Metadata Fields
 
-## ✍️ What I Do  
+| Field | Purpose |
+|---|---|
+| Document ID | Unique document traceability |
+| Document Type | SOP, WI, User Guide, Report, Release Note |
+| Process Area | Links document to business process |
+| Owner | Accountable person or team |
+| Review Cycle | Defines periodic review frequency |
+| Effective Date | Indicates active use date |
+| Training Required | Indicates LMS assignment need |
 
-I specialize in writing and managing the following types of content:  
-- 🧩 SOPs & Quality Documents (GxP, IVDR)  
-- 💬 User & Online Help Guides  
-- 🔍 Troubleshooting and Support Documentation  
-- 📚 Developer-Focused Content & Checklists  
-- 🎯 Documentation that aligns with business and compliance goals
+## Example Review Comment
 
----
+> The procedure is technically correct, but Step 4 requires a prerequisite. Please add a note explaining that users must first complete system access validation before starting the workflow.
 
-## 🚀 Why Documentation Matters  
-
-I help B2B and B2C organizations:
-- Transform complex systems into **clear, accessible content**
-- Support **regulatory readiness** and internal audits
-- Empower users, developers, and quality teams through **well-structured documentation**
-- Use **modern documentation workflows** (e.g., Git-based collaboration)
-
----
-
-## 📁 GxP-Compliant SOP Templates
-
-Explore GxP-compliant SOP examples aligned with ISO 13485, IVDR, and 21 CFR standards:
-
-👉 [GxP-SOPs Folder](./GxP-SOPs)
-
----
-
-Feel free to explore the folders and connect with me if you're looking to collaborate on documentation or compliance projects! 😊  
-
-![Made with Markdown](https://img.shields.io/badge/made%20with-Markdown-blue)
-
-
+## Portfolio Value
+This sample demonstrates documentation governance, review standardization, and quality-focused content management.
